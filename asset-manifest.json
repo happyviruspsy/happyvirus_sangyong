@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/happyvirus_sangyong/static/css/main.38e490f9.chunk.css",
+    "main.js": "/happyvirus_sangyong/static/js/main.82f6ec3a.chunk.js",
+    "main.js.map": "/happyvirus_sangyong/static/js/main.82f6ec3a.chunk.js.map",
+    "runtime~main.js": "/happyvirus_sangyong/static/js/runtime~main.df046dc4.js",
+    "runtime~main.js.map": "/happyvirus_sangyong/static/js/runtime~main.df046dc4.js.map",
+    "static/js/2.77e7a1e5.chunk.js": "/happyvirus_sangyong/static/js/2.77e7a1e5.chunk.js",
+    "static/js/2.77e7a1e5.chunk.js.map": "/happyvirus_sangyong/static/js/2.77e7a1e5.chunk.js.map",
+    "index.html": "/happyvirus_sangyong/index.html",
+    "precache-manifest.f8dfe213fce68ad4044cd48525ddd9ba.js": "/happyvirus_sangyong/precache-manifest.f8dfe213fce68ad4044cd48525ddd9ba.js",
+    "service-worker.js": "/happyvirus_sangyong/service-worker.js",
+    "static/css/main.38e490f9.chunk.css.map": "/happyvirus_sangyong/static/css/main.38e490f9.chunk.css.map"
+  }
+}
